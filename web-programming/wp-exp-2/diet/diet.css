@@ -1,0 +1,20 @@
+tr, th, td {
+    border: thin solid white;
+    border-radius: 6px;
+    padding: 10px;
+    text-align: center;
+    background-color: #ffcab9;
+}
+
+th {
+    padding: 6px 12px;
+    background-color: lightcoral;
+}
+
+td {
+    padding: 6px 16px;
+}
+
+.empty {
+    background-color: #ffb0b0;
+}
